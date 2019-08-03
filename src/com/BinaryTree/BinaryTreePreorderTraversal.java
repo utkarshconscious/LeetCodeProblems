@@ -20,11 +20,9 @@ public class BinaryTreePreorderTraversal {
                 stack.push(temp.right);
             if(temp.left!=null)
                 stack.push(temp.left);
-
         }
             return output;
     }
-
 
 }
 
