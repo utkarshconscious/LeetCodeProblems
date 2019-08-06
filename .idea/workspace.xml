@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cf9eb14-6556-4e91-8dd5-d86ff4745de9" name="Default Changelist" comment="Commiting Leetcode problems.">
+      <change afterPath="$PROJECT_DIR$/.idea/LeetCodeProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/ContainsDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/ContainsDuplicateII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/EntryMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/FirstUniqueCharacterinaString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/GroupAnagrams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/HappyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/IntersectionofTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/IsomorphicStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/MinimumIndexSumofTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/MyHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/SingleNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/HashTable/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/CopyListwithRandomPointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/FlattenAMultilevelDoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/IntersectionofTwoLinkedLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/LinkedListCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/LinkedListCycleII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/MergeTwoSortedLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/MyLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/OddEvenLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/PalindromeLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/RemoveLinkedListElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/RemoveNthNodeFromEndofList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/ReverseLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/LinkedList/RotateList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Queue/MyCircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Queue/NumberOfIslands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Queue/PerfectSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/BinaryTreeInorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/CloneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/DailyTemperatures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/EvaluateReversePolishNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/TargetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Stack/UndirectedGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/AddBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/AddBinaryJavaAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/ArrayPartition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/KMPArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/MatchingString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/RevereStringTwoPointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/ReverseWordsInString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Strings/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoDArrays/DiagonalTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoDArrays/PascalTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoDArrays/PascalTriangle2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoDArrays/SpiralMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoPointer/MaxConsecutiveOnes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoPointer/MinimumSizeSubarraySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/TwoPointer/RemoveElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/arrays/LargestNumberAtleastTwice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/arrays/NumberPlusOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/arrays/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/codility/BinomialCoefficient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/codility/SliceOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/playground/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/playground/EmpTestharness.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/playground/PlayGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Queue/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Queue/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binarysearchtree/CountOfBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/binarysearchtree/CountOfBinaryTrees.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>df</find>
+      <find>at t</find>
+      <find>at ta</find>
+      <find>headTwo</find>
+      <find>10</find>
+      <find>mer</find>
+      <find>*</find>
+      <find>tree.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>evenHead</replace>
+      <replace>m</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Utkarsh" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1OpaCwq83dzAGO0AyWjBd5l44LB" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553109620201" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.binarysearchtree" />
+      <recent name="com.TwoDArrays" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NumberOfIslandsDFS">
+    <configuration name="BinaryTreeInOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BinaryTree.BinaryTreeInOrderTraversal" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOfBinaryTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.binarysearchtree.CountOfBinaryTrees" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Strings.LongestCommonPrefix" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Queue.NumberOfIslands" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfIslandsDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Queue.NumberOfIslandsDFS" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BinaryTreeInOrderTraversal" />
+      <item itemvalue="Application.CountOfBinaryTrees" />
+      <item itemvalue="Application.LongestCommonPrefix" />
+      <item itemvalue="Application.NumberOfIslands" />
+      <item itemvalue="Application.NumberOfIslandsDFS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberOfIslandsDFS" />
+        <item itemvalue="Application.NumberOfIslands" />
+        <item itemvalue="Application.CountOfBinaryTrees" />
+        <item itemvalue="Application.BinaryTreeInOrderTraversal" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf9eb14-6556-4e91-8dd5-d86ff4745de9" name="Default Changelist" comment="" />
+      <created>1543469934938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543469934938</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commiting Leetcode problems.">
+      <created>1562643251598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562643251598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commiting Binart tree and a DP Problem.">
+      <created>1564811888543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564811888543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting Leetcode problems." />
+    <MESSAGE value="Commiting Binart tree and a DP Problem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting Binart tree and a DP Problem." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Queue/PerfectSquare.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Stack/EvaluateReversePolishNotation.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Stack/TargetSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/HashTable/MyHashMap.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
