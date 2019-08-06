@@ -1,7 +1,7 @@
 package com.binarysearchtree;
 
 import java.util.*;
-
+// Uses Dynamic Programming
 public class CountOfBinaryTrees {
 
     public static int numberOfBST(int n){
