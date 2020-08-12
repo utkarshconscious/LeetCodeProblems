@@ -11,16 +11,16 @@ public class BinaryTreeInOrderTraversal {
         List<Integer> output = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
         TreeNode node = root;
-        while(true){
-            while(node!=null){
+        while (true) {
+            while (node != null) {
                 stack.push(node);
-                node=node.left;
+                node = node.left;
             }
-            if(stack.isEmpty())
+            if (stack.isEmpty())
                 break;
 
             output.add(stack.peek().val);
-            node=stack.pop().right;
+            node = stack.pop().right;
         }
         return output;
     }
@@ -35,6 +35,5 @@ public class BinaryTreeInOrderTraversal {
         System.out.println(inorderTraversal(root));
 
     }
-
 
 }
