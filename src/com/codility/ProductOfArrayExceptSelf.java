@@ -17,8 +17,6 @@ public class ProductOfArrayExceptSelf {
             r = r * nums[i];
             System.out.println(out[i]);
         }
-
-
         return out;
     }
 

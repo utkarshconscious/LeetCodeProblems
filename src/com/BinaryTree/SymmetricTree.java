@@ -11,7 +11,6 @@ public class SymmetricTree {
     private boolean checkSymetry(TreeNode n1, TreeNode n2){
         if(n1==null && n2==null)
             return true;
-
         else if((n1==null && n2!=null)||(n1!=null && n2==null))
             return false;
         if(n1.val!=n2.val)
