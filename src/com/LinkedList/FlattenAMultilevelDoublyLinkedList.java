@@ -49,4 +49,5 @@ class Node {
         next = _next;
         child = _child;
     }
+
 };

@@ -30,21 +30,26 @@ public class NumberPlusOne {
     }*/
 
     public int[] plusOne(int[] digits) {
-        for(int i = digits.length - 1; i >= 0; i--){
-            if(digits[i] == 9){
+        int[] result = new int[0];
+        for (int i = digits.length - 1; i >= 0; i--) {
+            if (digits[i] == 9) {
                 digits[i] = 0;
-            }else{
+            } else {
                 digits[i] += 1;
-                return digits;
+                result = digits;
+                break;
             }
         }
-        int[] result = new int[digits.length + 1];
-        result[0] = 1;
+        if (result.length == 0) {
+            result = new int[digits.length + 1];
+            result[0] = 1;
+        }
         return result;
     }
-    public static void main(String [] args){
-        int [] nums = {9, 9, 9, 0};
-        nums=new NumberPlusOne().plusOne(nums);
+
+    public static void main(String[] args) {
+        int[] nums = {9, 9, 9, 8};
+        nums = new NumberPlusOne().plusOne(nums);
         for (int value : nums) {
             System.out.print(value);
         }

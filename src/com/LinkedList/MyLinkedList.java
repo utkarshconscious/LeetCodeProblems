@@ -73,6 +73,7 @@ public class MyLinkedList {
             Node prev = null;
             for (int i = 0; i <= index; i++) {
                 if (node.next == null)
+                    
                     return;
                 else {
                     prev = node;
